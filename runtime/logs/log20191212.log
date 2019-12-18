@@ -1,0 +1,4 @@
+[INFO][article.go:74]2019/12/12 15:40:09 [state 状态只允许0或1]
+[INFO][article.go:74]2019/12/12 15:40:09 [tag_id 标签ID必须大于0]
+[INFO][auth.go:47]2019/12/16 15:01:46 [Username.Required Can not be empty]
+[INFO][auth.go:47]2019/12/16 15:01:46 [Password.Required Can not be empty]
